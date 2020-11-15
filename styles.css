@@ -1,0 +1,42 @@
+.render { 
+   margin:30px 0px 20px 0px
+     
+    
+}
+h1 { 
+    
+    
+    color:rgb(253, 39, 39)
+}
+main { display:grid;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 100px;}
+
+.BtnSubmit { 
+    width:100px;
+	margin-top: 20px;
+	border:2px solid #46b8da;
+    color:#045;
+    background: whitesmoke;
+	font-family: inherit;
+	font-weight: bold;
+	padding:5px;
+	text-decoration: none;
+	text-align: center;
+}
+.BtnSubmit:hover { 
+  color:rgb(253, 39, 39);
+   cursor: pointer;
+}
+
+#trump { 
+    display:grid;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 100px;
+}
+
+body { font-family: 'Abel', sans-serif; } 
