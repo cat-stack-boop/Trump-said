@@ -36,7 +36,14 @@ main { display:grid;
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-top: 100px;
+        margin-top: 92px;
+        
 }
 
 body { font-family: 'Abel', sans-serif; } 
+
+
+#trump img { 
+    max-width: 100%;
+    
+}
